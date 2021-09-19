@@ -1,0 +1,3 @@
+token = ODI5OTEzMDE5ODg2NjAwMjIy.YG_Cug.gpJ7S0_LaOlgc14N91-3mGq8o6o
+owner = 346761633927790594
+prefix = "<3 "
